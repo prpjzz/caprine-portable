@@ -8,10 +8,10 @@ on:
   pull_request:
 
 env:
-  GO_VERSION: "1.19"
-  NODE_VERSION: "16"
-  JAVA_VERSION: "11"
-  ANT_VERSION: "1.10.8"
+  GO_VERSION: "1.20"
+  NODE_VERSION: "18"
+  JAVA_VERSION: "17"
+  ANT_VERSION: "1.10.13"
   JAVA_TOOL_OPTIONS: "-Dfile.encoding=UTF8"
 
 jobs:
