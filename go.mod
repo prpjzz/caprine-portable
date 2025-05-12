@@ -3,7 +3,9 @@ module github.com/prpjzz/caprine-portable
 go 1.24.0
 
 require (
+	github.com/kevinburke/go-bindata v1.1.0
 	github.com/kevinburke/go-bindata/v4 v4.0.2
+	github.com/portapps/caprine-portable v0.0.0-20250406200614-a46ee0dbaa62
 	github.com/portapps/portapps/v3 v3.16.0
 )
 
