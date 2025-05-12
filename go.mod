@@ -1,4 +1,4 @@
-module github.com/portapps/caprine-portable
+module github.com/prpjzz/caprine-portable
 
 go 1.24.0
 
